@@ -1,0 +1,14 @@
+{
+  "name": "roblox-2016-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "services/2016-roblox-main"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=roblox-web",
+    "build": "npm run build --workspace=roblox-web",
+    "start": "npm run start --workspace=roblox-web",
+    "lint": "npm run lint --workspace=roblox-web"
+  }
+}

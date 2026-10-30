@@ -1,0 +1,8 @@
+{
+  "name": "Roblox 2016 Revival",
+  "description": "2016 Roblox Revival web interface recreating the classic Roblox experience, games, catalog, avatars, and community pages.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
